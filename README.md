@@ -5,11 +5,11 @@ The code found in this repository is to help you learn how to script like a Deve
 ...
 ## WIP
 
-The code found in ´Week-2-Scripting-Like-A-Developer´ is currently a Work In Progress (WIP) and the readme will be updated when ready.
+The code found in `Week-2-Scripting-Like-A-Developer` is currently a Work In Progress (WIP) and the readme will be updated when ready.
 
 ...
 ## PowerShell Code
-The PowerShell code found in ´Week-2-Scripting-Like-A-Developer´
+The PowerShell code found in `Week-2-Scripting-Like-A-Developer`
 
 ...
 ## Examples 
@@ -40,4 +40,5 @@ class TestS3(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-    ```
+    
+```
