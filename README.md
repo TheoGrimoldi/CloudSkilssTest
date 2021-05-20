@@ -13,7 +13,7 @@ The PowerShell code found in ´Week-2-Scripting-Like-A-Developer´
 
 ...
 ## Examples 
-´´´Pwsh
+```Pwsh
 
 import unittest
 
@@ -40,4 +40,4 @@ class TestS3(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-´´´
+    ```
